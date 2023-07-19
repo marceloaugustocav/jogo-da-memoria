@@ -1,0 +1,15 @@
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\bin\Debug\net7.0\Jogo da memoria.exe
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\bin\Debug\net7.0\Jogo da memoria.deps.json
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\bin\Debug\net7.0\Jogo da memoria.runtimeconfig.json
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\bin\Debug\net7.0\Jogo da memoria.dll
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\bin\Debug\net7.0\Jogo da memoria.pdb
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\obj\Debug\net7.0\Jogo da memoria.csproj.AssemblyReference.cache
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\obj\Debug\net7.0\Jogo da memoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\obj\Debug\net7.0\Jogo da memoria.AssemblyInfoInputs.cache
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\obj\Debug\net7.0\Jogo da memoria.AssemblyInfo.cs
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\obj\Debug\net7.0\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\obj\Debug\net7.0\Jogo da memoria.dll
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\obj\Debug\net7.0\refint\Jogo da memoria.dll
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\obj\Debug\net7.0\Jogo da memoria.pdb
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\obj\Debug\net7.0\Jogo da memoria.genruntimeconfig.cache
+C:\Users\Zew-Developer\Desktop\C#\Jogo da memoria\Jogo da memoria\obj\Debug\net7.0\ref\Jogo da memoria.dll
